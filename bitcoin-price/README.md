@@ -1,7 +1,6 @@
 # future bitcoin price prediction
 
-Welcome to the Edusity University website! This project is a comprehensive university website built using HTML, CSS, JavaScript, and React.js. It includes various sections to provide detailed information about the university and its offerings. Below you'll find an overview of the project and how to set it up.
-
+Welcome to the Future Bitcoin Price Prediction website! This project is designed to predict future Bitcoin prices using machine learning models, providing a user-friendly interface for financial enthusiasts and researchers. It combines React.js for the front-end and Python (Flask) for the back-end. Below you'll find an overview of the project and how to set it up.
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -13,7 +12,7 @@ Welcome to the Edusity University website! This project is a comprehensive unive
 
 ## Project Overview
 
-The Edusity University website is designed to offer prospective and current students, faculty, and visitors a comprehensive view of the university. The website includes the following sections:
+The Future Bitcoin Price Prediction website allows users to view predictions for Bitcoin prices based on historical data. It aims to provide insights and assist in making data-driven investment decisions. Key features include:
 
 - **Home**: Introduction and highlights of the university.
 - **Program**: Detailed information about the various programs and courses offered.
